@@ -21,7 +21,8 @@ type ListNode struct {
 }
 
 func main() {
-	a1 = []int{1, 2}
-	head := &ListNode
-	fmt.Println(head)
+	a1 := []int{1, 2}
+	// head := &ListNode
+	// fmt.Println(head)
+	fmt.Println(a1)
 }
